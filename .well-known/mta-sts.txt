@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+max_age: 86401
+mx: geodata-no.mx1.comendosystems.com
+mx: geodata-no.mx2.comendosystems.net
+mx: gw1.security.comendo.com
